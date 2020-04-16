@@ -13,7 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c11e379-c3c6-4fb4-be19-48513c33efe9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,11 +97,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -147,7 +156,6 @@
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/mirror/Methods.kt" />
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/mirror/Fields.kt" />
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/mirror/com/tencent/wework/contact/plugin/Methods.kt" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/magic/xmagichooker/Plugins.kt" />
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/logic/ConversationService.kt" />
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/logic/DepartmentService.kt" />
@@ -168,6 +176,7 @@
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/model/pb/WwMessage.kt" />
         <option value="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/audio/AudioHelper.kt" />
         <option value="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -1050,7 +1059,7 @@
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.3294714" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.3294714" />
       <window_info id="Structure" order="4" side_tool="true" />
       <window_info id="Build Variants" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
@@ -1062,7 +1071,7 @@
       <window_info anchor="bottom" id="TODO" order="3" />
       <window_info anchor="bottom" id="Android Profiler" order="4" />
       <window_info anchor="bottom" id="Statistic" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32882273" />
+      <window_info anchor="bottom" id="Find" order="6" visible="true" weight="0.32882273" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -1078,13 +1087,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/utils/CmdUtil.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/utils/FileUtil.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2607">
@@ -1443,6 +1445,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
         </state>
       </provider>
     </entry>

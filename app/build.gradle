@@ -27,30 +27,16 @@ android {
         abortOnError false
     }
 
-    signingConfigs {
-        scf {
-            storeFile file("../app/keystore")
-            storePassword "135790"
-            keyAlias "keystore"
-            keyPassword "135790"
-
-            v1SigningEnabled true
-            v2SigningEnabled true
-        }
-    }
-
     buildTypes {
         release {
             minifyEnabled false
             debuggable false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.scf
         }
         debug {
             minifyEnabled false
             debuggable true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.scf
         }
     }
 }
