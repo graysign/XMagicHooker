@@ -145,7 +145,7 @@ object BitmapHelper {
             val buffer: ByteBuffer = ByteBuffer.allocate(1024)
             while (channel.read(buffer) !== -1) {
                 buffer.flip()
-                while (buffer.hasRemaining()) baos.write(byteArrayOf(buffer.get()))
+                while (buffer.hasRemaining()) baos.write(buffer.array())
                 buffer.clear()
             }
             val bts: ByteArray = baos.toByteArray()

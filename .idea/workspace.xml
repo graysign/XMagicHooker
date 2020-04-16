@@ -12,7 +12,10 @@
     <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c11e379-c3c6-4fb4-be19-48513c33efe9" name="Default Changelist" comment="" />
+    <list default="true" id="3c11e379-c3c6-4fb4-be19-48513c33efe9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,8 +101,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="240" column="8" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="8" />
+            <state relative-caret-position="240">
+              <caret line="147" column="71" selection-start-line="147" selection-start-column="71" selection-end-line="147" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -121,24 +124,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="597">
               <caret line="194" column="51" selection-start-line="194" selection-start-column="51" selection-end-line="194" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/model/User.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/model/Message.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -183,6 +168,7 @@
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/model/Conversation.kt" />
         <option value="$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/model/pb/WwMessage.kt" />
         <option value="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/audio/AudioHelper.kt" />
+        <option value="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt" />
       </list>
     </option>
   </component>
@@ -246,7 +232,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
+    <option name="x" value="51" />
     <option name="y" value="23" />
     <option name="width" value="1423" />
     <option name="height" value="831" />
@@ -964,6 +950,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
@@ -1064,13 +1051,13 @@
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.3294714" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.3294714" />
       <window_info id="Structure" order="4" side_tool="true" />
       <window_info id="Build Variants" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Logcat" order="0" weight="0.3788904" />
+      <window_info anchor="bottom" id="Logcat" order="0" weight="0.49661705" />
       <window_info anchor="bottom" id="Run" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" />
       <window_info anchor="bottom" id="TODO" order="3" />
@@ -1092,23 +1079,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/magic/xmagichooker/MainActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/magic/xmagichooker/Plugins.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="954" column="45" lean-forward="true" selection-start-line="954" selection-start-column="45" selection-end-line="954" selection-end-column="45" />
-          <folding>
-            <element signature="e#32#1081#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/utils/CmdUtil.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1456,10 +1426,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2053">
+          <caret line="418" lean-forward="true" selection-start-line="418" selection-end-line="418" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-29/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="767" column="5" selection-start-line="767" selection-start-column="5" selection-end-line="767" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="240" column="8" selection-start-line="240" selection-start-column="8" selection-end-line="240" selection-end-column="8" />
+        <state relative-caret-position="240">
+          <caret line="147" column="71" selection-start-line="147" selection-start-column="71" selection-end-line="147" selection-end-column="71" />
         </state>
       </provider>
     </entry>
