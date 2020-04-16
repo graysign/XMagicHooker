@@ -14,7 +14,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3c11e379-c3c6-4fb4-be19-48513c33efe9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/logic/SyncDepartmentState.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -101,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="147" column="71" selection-start-line="147" selection-start-column="71" selection-end-line="147" selection-end-column="71" />
+            <state relative-caret-position="300">
+              <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -1045,7 +1044,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="23" width="1423" height="831" extended-state="0" />
+    <frame x="51" y="23" width="1423" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
@@ -1398,7 +1397,7 @@
     <entry file="file://$PROJECT_DIR$/wework/src/main/java/com/magic/wework/apis/com/tencent/wework/foundation/logic/SyncDepartmentState.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -1442,8 +1441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kernel/src/main/java/com/magic/kernel/media/image/BitmapHelper.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="147" column="71" selection-start-line="147" selection-start-column="71" selection-end-line="147" selection-end-column="71" />
+        <state relative-caret-position="300">
+          <caret line="151" column="49" selection-start-line="151" selection-start-column="49" selection-end-line="151" selection-end-column="49" />
         </state>
       </provider>
     </entry>
